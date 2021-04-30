@@ -1,12 +1,11 @@
 # VibezzBot2.0
 
 HotFixes (1.0)
--First Offical Release of VibezzBot 2.0
+-First Offical Release of VibezzBot
 -Updated Commands
 
-
-Upcoming Features
--Music Intergration
--Fortnite Leaks Auto-Generator
--Polls
--Easter Eggs!
+Upcoming features!
+-Music intergration
+-beat saber commands and bsr intergrations
+-auto reply to certain words "help, beat saber mods, etc."
+-AND MORE TO COME!
